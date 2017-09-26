@@ -64,7 +64,7 @@ Contact :
 /*******************************************************************************<BR>
  *	circAnno - A tool for annotating circRNAs with known gene annotations<BR>
  *<BR>
- *	Author : Jian-Hua Yang <yangjh7@mail.sysu.edu.cn><BR>
+ *	Author : Jian-Hua Yang yangjh7@mail.sysu.edu.cn<BR>
  * <BR>
  *	School of Life Sciences, Sun Yat-Sen University<BR>
  *  <BR>
