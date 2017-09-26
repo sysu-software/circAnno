@@ -40,8 +40,8 @@ Compiler: The source code is compiled with  the C++ compiler g++. We test the co
 Libraries and other installation requirements: circAnno includes one software library: the kent library package from UCSC Genome Browser. <BR>
 All will automatically compile during circAnno installation process. By default, circAnno does not require any additional libraries to be installed by you.<BR>
 
-Prerequisites
----------:
+Prerequisites:
+---------
 Annotation file<BR>
 You can use Table Browser to get the bed12 file for genome annotation(e.g. GENCODE)<BR>
 http://genome.ucsc.edu/cgi-bin/hgTables<BR>
@@ -53,7 +53,7 @@ bin/circAnno ./test_data/test_genes.bed12 ./test_data/test_circRNAs.bed6 >./test
 
 Output:
 ---------
-# output is bed12 format<BR>
+#output is bed12 format
 chrX	139865339	139866824	circSeeker-1:ENST00000625883.1|CDR1-AS|ENSG00000281508.1|CDR1-AS-001|antisense:match	9	+	139865339	139866824	255	1	1485,	0,<BR>
 
 Acknowledgements:
