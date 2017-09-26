@@ -17,7 +17,6 @@ File format for bed is bed6 or bed12<BR>
 -i/--min-len                   : minimum length of circRNA transcript[default=50]<BR>
 -x/--max-len                   : maximum length of circRNA transcript[default=300000]<BR>
 -o/--output <string>           : output file<BR>
-<BR>
 
 Installation:
 ---------
